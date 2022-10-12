@@ -1,0 +1,25 @@
+.snow-leopard-tail {
+    width: 250px;
+    height: 250px;
+    border-width: 25px;
+    border-style: dashed;
+    border-color:lightblue;
+    line-height: 14em;
+}
+
+body {
+background-color: lightslategrey;
+}
+h1{ font-family: 'Raleway', sans-serif;
+}
+h2{font-family: 'Raleway', sans-serif;
+}
+h3{font-family: 'Raleway', sans-serif;
+}
+p{font-family: 'Oxygen', sans-serif;
+}
+ul{font-family: 'Oxygen', sans-serif;
+}
+div {
+    cursor:wait;
+}
